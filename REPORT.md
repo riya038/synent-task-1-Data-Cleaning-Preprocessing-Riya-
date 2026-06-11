@@ -2,10 +2,12 @@
 
 ## Project Information
 
--**Project Title:** Data Cleaning and Preprocessing using Titanic Dataset
--**Internship:** Data Science Internship
--**Organization:** Synent Technologies
--**Submitted By:** Riya Kalariya
+## Project Information
+
+- **Project Title:** Data Cleaning and Preprocessing using Titanic Dataset
+- **Internship:** Data Science Internship
+- **Organization:** Synent Technologies
+- **Submitted By:** Riya Kalariya
 
 ---
 
